@@ -1,4 +1,5 @@
 # Blazor-MySql-MariaDB-.Net-5
+(Excusemme, I'm writen this guide now)
 Guide donkeys to create a Blazor application with identityframerkok with .Net 5 and MariaDB or Mysql database
 
 Brief description of the steps to be carried out
