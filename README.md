@@ -4,19 +4,19 @@ Guide donkeys to create a Blazor application with identityframerkok with .Net 5 
 Brief description of the steps to be carried out
 The objective is to create an application in an empty database, using Net 5, and taking as a template the template created by Blazor server that is automatically created from visual studio 2019
 
-###Develop Enviroment
+### Develop Enviroment
 - Visual Studio 2019
 - MariaDb or MySql
 - HeidySql
 
 
-###Previous knowledge
+### Previous knowledge
 - Using Visual Studio 2019
 - Use of MySql or MariaDB
 - Development using C # language
 - Using HeidySQL
 
-###Packages 
+### Packages 
 - Pomelo.IdentityFrameworkCore.MySql v 5 (Now in Apha version)
 
 # Steeps 
