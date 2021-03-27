@@ -104,3 +104,8 @@ Not problem in next steeps we change it for MariaDB.
 
 ![image](https://user-images.githubusercontent.com/8515368/112727094-0ecde780-8f21-11eb-80e6-e6494ed580bb.png)
 
+### 2.3 Remove Migrations folder
+On the right there are subfolder of Data folder named Migration, remove it 
+
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/09%20delete%20migration%20folder.jpg?raw=true)
+
