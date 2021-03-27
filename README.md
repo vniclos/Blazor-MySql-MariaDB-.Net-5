@@ -9,6 +9,7 @@ The objective is to create an application in an empty database, using Net 5, and
 - Visual Studio 2019
 - MariaDb or MySql
 - HeidySql
+- Pomelo.EntityFrameworkSql.Mysql
 
 
 ### Previous knowledge
@@ -80,7 +81,15 @@ Here his links
 - Visual studio Comunnit - https://visualstudio.microsoft.com/es/vs/community/
 
 ### 2.1 Create Blazor application with individual user acount from standard template
-Start visual studio 2010, the select creata new project, in the next scren, be sure select **Blazor Server app
+Start visual studio 2010, 
+
+### 2.1.1 select create new project, in the next scren, be sure select **Blazor Server app
+
+![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/05%20create%20blazor%20server%20app.jpg?raw=true)
+Click next
+### 2.1.2 Config .net 5 and Indivisual user accounts
+
+
 
 ![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/05%20create%20blazor%20server%20app.jpg?raw=true)
 
