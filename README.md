@@ -112,5 +112,9 @@ On the right there are subfolder of Data folder named Migration, remove it
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/09%20delete%20migration%20folder.jpg?raw=true)
 
 ### 3.2 Remove nuget packet Microsft.EntityFrameworkCore.Sql
+In visual studio. Menu: Tools > Nuget Pakage Manager > Manage Nuget Package  for solution, Select Browse, search  MySql.EntityFrameworkCore.SQL   and unistal it
+
+
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/10%20uninstall%20sqlserverpackage.jpg?raw=true)
 
 ### 
