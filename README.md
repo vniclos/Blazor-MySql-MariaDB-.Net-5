@@ -57,6 +57,7 @@ Here his links
 
 # 1.1.1 Create database 
 In this guide the datase mame are **"bbdd-test-identity"
+Open HeidiSql tool, then pick in your server Name, right click in mouse, Create New> Database > Fill the name "bbdd-test-identity"> OK
 ![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
 
 
