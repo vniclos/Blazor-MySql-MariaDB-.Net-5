@@ -1,4 +1,4 @@
-# Blazor-MySql-MariaDB-.Net-5
+# Blazor app  whith MySql or MariaDB and .Net 5 and IdentityFamework
 (Excusemme, I'm writen this guide now)
 Guide donkeys to create a Blazor application with identityframerkok with .Net 5 and MariaDB or Mysql database
 
@@ -93,4 +93,4 @@ As you can show in next image
 
 ![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/07%20create%20app%20Net5.0%20.jpg?raw=true)
 
-
+Click next
