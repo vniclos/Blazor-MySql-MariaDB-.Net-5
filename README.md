@@ -123,5 +123,5 @@ In visual studio. Menu: Tools > Nuget Pakage Manager > Manage Nuget Package  for
 
 Note: At this date 2021-March-27 the version are in prerelease Alfa)
  
-![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/11--install%20pomello%20entityframeworkCore.MySql.jpg)
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/11--install-pomello-entityframeworkCore.MySql.jpg?raw=true)
 
