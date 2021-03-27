@@ -41,4 +41,4 @@ Remove the MS SqlServer libraries and put the MySql ones
 
 #### 1.1 Create database for testing
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/01-MariaDBConnection.jpg?raw=true)
