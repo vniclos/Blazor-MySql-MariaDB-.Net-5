@@ -80,4 +80,8 @@ Here his links
 - Visual studio Comunnit - https://visualstudio.microsoft.com/es/vs/community/
 
 ### 2.1 Create Blazor application with individual user acount from standard template
-Start visual studio 2010, the 
+Start visual studio 2010, the select creata new project, in the next scren, be sure select **Blazor Server app
+
+![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/05%20create%20blazor%20server%20app.jpg?raw=true)
+
+
