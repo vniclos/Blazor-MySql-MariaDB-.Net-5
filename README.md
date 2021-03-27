@@ -96,9 +96,11 @@ As you can show in next image
 Click next
 
 ### 2.2 Testing weldone this steep
+
 On the right screen you can show some like this 
-**Warning". This template are configurated for work whit SqlServer Express, as you can show in next figure points 1 and 2. They are not necesare for us!, 
-Not problem in next steeps we change it for MariaDB
-![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/07%20create%20app%20Net5.0%20.jpg?raw=true)
+
+**Warning". This template are configurated for work whit SqlServer Express, as you can show in next figure points 1 and 2. They are not necesare for us!. 
+Not problem in next steeps we change it for MariaDB.
+
 ![image](https://user-images.githubusercontent.com/8515368/112727094-0ecde780-8f21-11eb-80e6-e6494ed580bb.png)
 
