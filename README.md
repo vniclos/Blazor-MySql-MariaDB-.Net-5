@@ -19,7 +19,8 @@ The objective is to create an application in an empty database, using Net 5, and
 ### Packages 
 - Pomelo.IdentityFrameworkCore.MySql v 5 (Now in Apha version)
 
-# Steeps 
+### Steeps
+I have splited the donkey guide in seven steeps, whit a well done test at end of each of them 
 
 1. Create empty database in Mysql or MariaDB.
 In this example "bbdd-test-identity"
@@ -31,3 +32,13 @@ Remove the MS SqlServer libraries and put the MySql ones
 5. Modify Startup.cs file
 6. Create IdentityFramewok migration files for MySql
 7. Create tables in database bbdd-test-identity
+
+## 1. Create empty database in Mysql or MariaDB.
+
+### Need
+- Database server like MariaDB or MySql
+- HeidiSql or similar for use as Database Manager, i Use HeidiSql in this guide
+
+#### 1.1 Create database for testing
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
