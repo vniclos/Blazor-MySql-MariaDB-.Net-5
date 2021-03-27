@@ -41,4 +41,11 @@ Remove the MS SqlServer libraries and put the MySql ones
 
 #### 1.1 Create database for testing
 
+I assume that you have MariaDB or MySql installed. If not, download and install it before continuing
+
+here his links
+-MariaDB Foundation - MariaDB.org https://mariadb.org/
+-MySql - https://www.mysql.com/
+
+
 ![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/01-MariaDBConnection.jpg?raw=true)
