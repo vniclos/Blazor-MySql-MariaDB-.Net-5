@@ -56,5 +56,7 @@ Here his links
 ![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/01-MariaDBConnection.jpg?raw=true)
 
 # 1.1.1 Create database 
-In this guide the datase mame are 
-![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/01-MariaDBConnection.jpg?raw=true)
+In this guide the datase mame are **"bbdd-test-identity"
+![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
+
+
