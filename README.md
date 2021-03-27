@@ -63,7 +63,19 @@ Open HeidiSql tool, then pick in your server Name, right click in mouse, Create 
 ![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
 
 #### 1.2 Testing welldone  this steep
-On the right of HeidySql Screen your can show the database in the tree, if not click on server name, left  buttton and refresh
+On the right of HeidySql Screen your can show the database **"bbdd-test-identity" in the tree, if not put mouse cursor on server name, riggth  buttton and refresh
 
 ![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/03-MariaDBCreate.jpg)
+
+Now yo can close HeidySql, but need remember Marria db Server Name, (May be localhost, IP addres,  or other), User and password for access to it.
+
+## 2. Create a Blazor Server application with individual user accounts.
+
+### Need previous for this steep
+- Visual studio 2019
+
+I assume that you have installed Visual Studio. If not, download and install  before continuing. Microsoft have  Visual studio Comunnity version free
+
+Here his links
+- Visual studio Comunnit - https://visualstudio.microsoft.com/es/vs/community/
 
