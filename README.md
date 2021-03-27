@@ -1,6 +1,8 @@
 # Blazor-MySql-MariaDB-.Net-5
 Guide donkeys to create a Blazor application with identityframerkok with .Net 5 and MariaDB or Mysql database
 
+Brief description of the steps to be carried out
+The objective is to create an application in an empty database, using Net 5, and taking as a template the template created by Blazor server that is automatically created from visual studio 2019
 
 Develop Enviroment
 - Visual Studio 2019
@@ -17,8 +19,7 @@ Previous knowledge
 Packages 
 - Pomelo.IdentityFrameworkCore.MySql v 5 (Now in Apha version)
 
-Brief description of the steps to be carried out
-The objective is to create an application in an empty database, using Net 5, and taking as a template the template created by Blazor server that is automatically created from visual studio 2019
+
 1. Create empty database in Mysql or MariaDB.
 In this example "bbdd-test-identity"
 2. Create a Blazor Server application with individual user accounts.
