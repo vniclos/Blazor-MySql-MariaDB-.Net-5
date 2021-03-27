@@ -79,3 +79,5 @@ I assume that you have installed Visual Studio. If not, download and install  be
 Here his links
 - Visual studio Comunnit - https://visualstudio.microsoft.com/es/vs/community/
 
+### 2.1 Create Blazor application with individual user acount from standard template
+Start visual studio 2010, the 
