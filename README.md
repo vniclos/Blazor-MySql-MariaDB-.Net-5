@@ -117,4 +117,11 @@ In visual studio. Menu: Tools > Nuget Pakage Manager > Manage Nuget Package  for
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/10%20uninstall%20sqlserverpackage.jpg?raw=true)
 
-### 
+### 3.3 Instal Nuguet Packet **"Pomelo.EntityFramworkCore.Sql v5"
+
+In visual studio. Menu: Tools > Nuget Pakage Manager > Manage Nuget Package  for solution, select Browse, **Include prerelease**, Pomelo.EntityFrameworkColre.MySql 
+
+Note: At this date 2021-March-27 the version are in prerelease Alfa)
+ 
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/11--install%20pomello%20entityframeworkCore.MySql.jpg)
+
