@@ -35,17 +35,21 @@ Remove the MS SqlServer libraries and put the MySql ones
 
 ## 1. Create empty database in Mysql or MariaDB.
 
-### Need
+### Need previous for this steep
 - Database server like MariaDB or MySql
-- HeidiSql or similar for use as Database Manager, i Use HeidiSql in this guide
-
-#### 1.1 Create database for testing
+- HeidiSql or similar for use as Database Manager, i Use HeidiSql in this guide (When you instal MariaDB HeidiSql is auto installed)
 
 I assume that you have MariaDB or MySql installed. If not, download and install it before continuing
 
-here his links
--MariaDB Foundation - MariaDB.org https://mariadb.org/
--MySql - https://www.mysql.com/
+Here his links
+- MariaDB Foundation - MariaDB.org https://mariadb.org/
+- MySql - https://www.mysql.com/
+- HeidiSql- https://www.heidisql.com/
+
+
+#### 1.1 Create database for testing
+
+Open HeidiSql and connect to your MariaDB or MySql server (From now on I will write only MariaDB to refer to both (MariaDB and MySql)
 
 
 ![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/01-MariaDBConnection.jpg?raw=true)
