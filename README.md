@@ -89,8 +89,8 @@ Start visual studio 2010,
 Click next
 ### 2.1.2 Config .net 5 and Indivisual user accounts
 
+As you can show in next image
 
-
-![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/05%20create%20blazor%20server%20app.jpg?raw=true)
+![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/07%20create%20app%20Net5.0%20.jpg?raw=true)
 
 
