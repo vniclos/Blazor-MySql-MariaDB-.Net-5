@@ -63,6 +63,7 @@ Open HeidiSql tool, then pick in your server Name, right click in mouse, Create 
 ![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
 
 #### 1.2 Testing welldone  this steep
+On the right of HeidySql Screen your can show the database in the tree, if not click on server name, left  buttton and refresh
 
-![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
+![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/03-MariaDBCreate.jpg)
 
