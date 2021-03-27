@@ -50,16 +50,19 @@ Here his links
 
 #### 1.1 Create database for testing
 
-# 1.1.1 Open HeidiSql and connect to your MariaDB or MySql server (From now on I will write only MariaDB to refer to both (MariaDB and MySql)
+##### 1.1.1 Open HeidiSql and connect to your MariaDB or MySql server (From now on I will write only MariaDB to refer to both (MariaDB and MySql)
 
 
 ![HeidiSql Connec](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/01-MariaDBConnection.jpg?raw=true)
 
-# 1.1.1 Create database 
+##### 1.1.2 Create database 
 In this guide the datase mame are **"bbdd-test-identity"
 Open HeidiSql tool, then pick in your server Name, right click in mouse, Create New> Database > Fill the name "bbdd-test-identity"> OK
 
 
 ![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
 
+#### 1.2 Testing welldone  this steep
+
+![HeidiSql Create database](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/02-MariaDBCreate.jpg?raw=true)
 
