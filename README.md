@@ -28,7 +28,7 @@ I have splited the donkey guide in seven steeps, whit a well done test at end of
 In this example "bbdd-test-identity"
 2. Create a Blazor Server application with individual user accounts.
 In this example "AppBlazorMariaDB"
-3. Install and uninstall Nuget packages
+3. Remove innecesiary files and and uninstall Nuget packages
 Remove the MS SqlServer libraries and put the MySql ones
 4. Modify the appsettings.json configuration file
 5. Modify Startup.cs file
@@ -102,12 +102,15 @@ On the right screen you can show some like this
 **Warning". This template are configurated for work whit SqlServer Express, as you can show in next figure points 1 and 2. They are not necesare for us!. 
 Not problem in next steeps we change it for MariaDB.
 
-
+## 3. Remove innecesary files and Nuget packages, then install Necesary Nuget packet
 
 ![image]https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/08%20create%20app%20Net5.0%20.jpg?raw=true)
 
-### 2.3 Remove Migrations folder
+### 3.1 Remove Migrations folder
 On the right there are subfolder of Data folder named Migration, remove it 
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/09%20delete%20migration%20folder.jpg?raw=true)
 
+### 3.2 Remove nuget packet Microsft.EntityFrameworkCore.Sql
+
+### 
