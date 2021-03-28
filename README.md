@@ -216,4 +216,15 @@ Build succeeded.
 
 Done.
 
+### 7.2 Check if all is welldone
 
+Now open HeidiSql application and look at  BB-test-identity database, you need show the necesary tables for use in you aplication IdentityFramework. I the HeidiSql is openned before 7.1 steep, you need refresh view by click F5
+
+https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/22-%20SHow%20database.jpg?raw=true
+
+## 8. Testing application
+Now is time to test if ower application can add user, and if the user can loging
+
+## 9 The app could be better
+We could be modifiy user politicy in statup.cs file
+We could be add email confirmation.
