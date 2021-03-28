@@ -161,11 +161,13 @@ Adding on the top the line “using Pomelo.EntityFrameworkCore;”
 Changing the word **UseSqlServer** bya **UseMySql**
 
 Then the origina line (For MS SqlServer )
-services.AddDbContext<ApplicationDbContext>(options => options. **UseSqlServer** (Configuration.GetConnectionString("DefaultConnection")));
+services.AddDbContext<ApplicationDbContext>(options => options. **UseSqlServer**
+(Configuration.GetConnectionString("DefaultConnection")));
 
 Will be (For MariaDB)
-services.AddDbContext<ApplicationDbContext>(options => options. **UseMySql** (Configuration.GetConnectionString("DefaultConnection")));
- 
+services.AddDbContext<ApplicationDbContext>(options => options. **UseMySql** 
+(Configuration.GetConnectionString("DefaultConnection")));
+
  
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/20--Change-in-startup.cs.jpg?raw=true)
 
