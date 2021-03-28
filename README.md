@@ -232,7 +232,8 @@ Then click register, fill form and send, you can see confirmation message, but a
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/23-test-login.jpg?raw=true)
 
 
-10.
 ## 9 The app could be better
-We could be modifiy user politicy in statup.cs file
-We could be add email confirmation.
+For future we can do some improve like 
+
+- We could be modifiy user politicy in statup.cs file
+- We could be add email confirmation.
