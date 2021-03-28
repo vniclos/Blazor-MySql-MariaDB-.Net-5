@@ -34,6 +34,8 @@ Remove the MS SqlServer libraries and put the MySql ones
 5. Modify Startup.cs file
 6. Create IdentityFramewok migration files for MySql
 7. Create tables in database bbdd-test-identity
+8. Testing application
+
 
 ## 1. Create empty database in Mysql or MariaDB.
 
@@ -194,5 +196,17 @@ Enter, If all is ok you can see some like next figure
 I project explore need show a new folder with the name **Migration**, inside it there are the  necesary files for build tables on MariaDB database
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/16--New-Migration-folder.jpg?raw=true)
 
+
+###7. Create tables in database bbdd-test-identity
+Now we are use migration folder for build tables on database
+
+##7.1 Build tables  on database
+
+On the Package Manager console call comannd 
+PM> Update-Database
+Enter, if all is ok the console repply
+Build started...
+Build succeeded.
+Done.
 
 
