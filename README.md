@@ -236,4 +236,29 @@ Then click register, fill form and send, you can see confirmation message, but a
 For future we can do some improve like 
 
 - We could be modifiy user politicy in statup.cs file
+for do that , you can edit startup.cs and add  to fuction 
+public void ConfigureServices(IServiceCollection services)
+
+Some like this code
+```c#
+
+ services.Configure<IdentityOptions>(options =>
+            {
+                // Default Password settings.
+                options.Password.RequireDigit = true;
+                options.Password.RequireLowercase = true;
+                options.Password.RequireNonAlphanumeric = false;
+                options.Password.RequireUppercase = true;
+                options.Password.RequiredLength = 6;
+                options.Password.RequiredUniqueChars = 1;
+                // Default Lockout settings.
+                options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(60);
+                options.Lockout.MaxFailedAccessAttempts = 5;
+                options.Lockout.AllowedForNewUsers = true;
+                // Confirmed email. phone
+                options.SignIn.RequireConfirmedEmail = false;
+                options.SignIn.RequireConfirmedPhoneNumber = false;
+            });
+}
+```
 - We could be add email confirmation.
