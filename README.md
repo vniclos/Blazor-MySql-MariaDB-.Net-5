@@ -137,3 +137,17 @@ In this steep, on the Solution explorer you need:
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/12-Check-prerequisites.jpg?raw=true)
 
+## Modify the appsettings.json configuration file
+
+The appconfig.json file in root of project has string connection for do connection with MS SqlServer Expres,  similar to this.
+
+"DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=aspnet-AppBlazorMariaDB-2A2FFB32-AB8F-467E-8741-225DD84906A6;Trusted_Connection=True;MultipleActiveResultSets=true"
+
+We need to change it  to MariaDB string connection  like this
+
+ConnectionStrings": {  "DefaultConnection": "Server=**ServerName**;Database= *bbdd-test-identity*;Uid=**UserName**;Pwd=**Password**;Connection Timeout=30;Convert Zero Datetime=True ; Allow Zero Datetime=True"
+
+Remeber to change, ServerName, UserName and Password to your needs. I asume your database name has  name *bbdd-test-identity*, if not you need to change.
+
+
+
