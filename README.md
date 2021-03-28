@@ -164,13 +164,13 @@ Changing the word **UseSqlServer** bya **UseMySql**
 
 Then the origina line (For MS SqlServer )
 ```c#
-services.AddDbContext<ApplicationDbContext>(options => options. **UseSqlServer**
+services.AddDbContext<ApplicationDbContext>(options => options. UseSqlServer
 (Configuration.GetConnectionString("DefaultConnection")));
 
 ```
 Will be (For MariaDB)
 ```c#
-services.AddDbContext<ApplicationDbContext>(options => options. **UseMySql** 
+services.AddDbContext<ApplicationDbContext>(options => options. UseMySql 
 (Configuration.GetConnectionString("DefaultConnection")));
 
 ```
