@@ -152,6 +152,22 @@ Remeber to change, ServerName, UserName and Password to your needs. I asume your
 Save changes
 
 ## 5. Modify Startup.cs file
+Startup file is builded for MS SqlServer whe need to do this moficifications
+
+### 5.1 Add reference to pomelo 
+Adding on the top the line “using Pomelo.EntityFrameworkCore;”
+
+### 5.2 Modify one line in the function ConfigureServices
+Changing the word **UseSqlServer** bya **UseMySql**
+
+Then the origina line (For MS SqlServer )
+services.AddDbContext<ApplicationDbContext>(options => options. **UseSqlServer** (Configuration.GetConnectionString("DefaultConnection")));
+
+Will be (For MariaDB)
+services.AddDbContext<ApplicationDbContext>(options => options. **UseMySql** (Configuration.GetConnectionString("DefaultConnection")));
+ 
+ 
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/20--Change-in-startup.cs.jpg?raw=true)
 
 
-
+Save changes
