@@ -203,10 +203,15 @@ Now we are use migration folder for build tables on database
 ##7.1 Build tables  on database
 
 On the Package Manager console call comannd 
+
 PM> Update-Database
+
 Enter, if all is ok the console repply
+
 Build started...
+
 Build succeeded.
+
 Done.
 
 
