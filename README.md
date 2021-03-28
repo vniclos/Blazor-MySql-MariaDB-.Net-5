@@ -258,6 +258,7 @@ for do that , you can edit startup.cs and add insside the fuction  **public void
                 options.Lockout.AllowedForNewUsers = true;
                 // Confirmed email. phone
                 options.SignIn.RequireConfirmedEmail = false;
+                 options.User.RequireUniqueEmail = false;
                 options.SignIn.RequireConfirmedPhoneNumber = false;
             });
 }
