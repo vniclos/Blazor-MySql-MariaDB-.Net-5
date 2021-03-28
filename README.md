@@ -225,6 +225,14 @@ https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/22-%20SH
 ## 8. Testing application
 Now is time to test if ower application can add user, and if the user can loging
 
+8.1 Test create new user
+Return to visual studio 2019, compile application and start it.
+Then click register, fill form and send, you can see confirmation message, but at this moment not send email confirmation, beacuse we dont develop this feature
+
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/23-test-login.jpg?raw=true)
+
+
+10.
 ## 9 The app could be better
 We could be modifiy user politicy in statup.cs file
 We could be add email confirmation.
