@@ -236,10 +236,7 @@ Then click register, fill form and send, you can see confirmation message, but a
 For future we can do some improve like 
 
 - We could be modifiy user politicy in statup.cs file
-for do that , you can edit startup.cs and add  to fuction 
-public void ConfigureServices(IServiceCollection services)
-
-Some like this code
+for do that , you can edit startup.cs and add insside the fuction  **public void ConfigureServices(IServiceCollection services)**  Some like this code, you can change it for ajust to your preferences.
 ```c#
 
  services.Configure<IdentityOptions>(options =>
