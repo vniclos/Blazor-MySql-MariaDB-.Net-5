@@ -173,3 +173,18 @@ services.AddDbContext<ApplicationDbContext>(options => options. **UseMySql**
 
 
 Save changes
+
+## 6 Create IdentityFramewok migration files for MySql
+
+Now compile application, and we will be ready for automatic build Migration folder and filesd for EntityFramework database code first.
+
+6.1 Open window of Console Pakage Mananger.
+
+If is closed, you can do: Menu> Tools > Nuget Package Manager > Console 
+
+6.2 Clic en Nuget Console and write
+
+PM> add-migration ‘identity’
+Enter
+
+
