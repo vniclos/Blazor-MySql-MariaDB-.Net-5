@@ -125,3 +125,15 @@ Note: At this date 2021-March-27 the version are in prerelease Alfa)
  
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/11--install-pomello-entityframeworkCore.MySql.jpg?raw=true)
 
+### 3.4 Check welldone requisites 
+
+In this steep, on the Solution explorer you need:
+
+- show in packages, Pomelo.EntityFrameworkCore.MySql (5.0.0-alpha 1), not lest than this version, because we are runting aplicatoin .Bet 5
+- Not Show in pacages Microsoft.EntityFrameworkCore.Sql
+- In Data folder not show subfolder Migration.
+
+
+
+![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/12-Check-prerequisites.jpg?raw=true)
+
