@@ -198,7 +198,7 @@ Enter, If all is ok you can see some like next figure
 
 6.3 Check if all is welldone
 
-I project explore need show a new folder with the name **Migration**, inside it there are the  necesary files for build tables on MariaDB database
+In project explorer you can show  a new folder with the name **Migration**, inside it there are the  necesary files for build tables on MariaDB database
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/16--New-Migration-folder.jpg?raw=true)
 
