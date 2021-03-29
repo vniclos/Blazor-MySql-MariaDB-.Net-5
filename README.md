@@ -184,11 +184,11 @@ Save changes
 
 Now compile application, and we will be ready for automatic build Migration folder and filesd for EntityFramework database code first.
 
-6.1 Open window of Console Pakage Mananger.
+### 6.1 Open window of Console Pakage Mananger.
 
 If is closed, you can do: Menu> Tools > Nuget Package Manager > Console 
 
-##6.2 Clic en Nuget Console and write
+### 6.2 Clic en Nuget Console and write
 
 PM> add-migration ‘identity’
 
@@ -196,17 +196,17 @@ Enter, If all is ok you can see some like next figure
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/15--execute-add-migration-identity.jpg?raw=true)
 
-## 6.3 Check if all is welldone
+### 6.3 Check if all is welldone
 
 In project explorer you can show  a new folder with the name **Migration**, inside it there are the  necesary files for build tables on MariaDB database
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/16--New-Migration-folder.jpg?raw=true)
 
 
-###7. Create tables in database bbdd-test-identity
+## 7. Create tables in database bbdd-test-identity
 Now we are use migration folder for build tables on database
 
-##7.1 Build tables  on database
+### 7.1 Build tables  on database
 
 On the Package Manager console call comannd 
 
@@ -229,7 +229,7 @@ https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/22-%20SH
 ## 8. Testing application
 Now is time to test if ower application can add user, and if the user can loging
 
-8.1 Test create new user
+### 8.1 Test create new user
 Return to visual studio 2019, compile application and start it.
 Then click register, fill form and send, you can see confirmation message, but at this moment not send email confirmation, beacuse we dont develop this feature
 
