@@ -37,7 +37,7 @@ Remove the MS SqlServer libraries and put the MySql ones
 8. Testing application
 
 
-## 1. Create empty database in Mysql or MariaDB.
+## 1. Create empty database in MariaDB or MySqk
 
 ### Need previous for this steep
 - Database server like MariaDB or MySql
