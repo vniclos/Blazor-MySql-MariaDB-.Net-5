@@ -188,7 +188,7 @@ Now compile application, and we will be ready for automatic build Migration fold
 
 If is closed, you can do: Menu> Tools > Nuget Package Manager > Console 
 
-6.2 Clic en Nuget Console and write
+##6.2 Clic en Nuget Console and write
 
 PM> add-migration ‘identity’
 
@@ -196,7 +196,7 @@ Enter, If all is ok you can see some like next figure
 
 ![image](https://github.com/vniclos/Blazor-MySql-MariaDB-.Net-5/blob/main/Images/15--execute-add-migration-identity.jpg?raw=true)
 
-6.3 Check if all is welldone
+## 6.3 Check if all is welldone
 
 In project explorer you can show  a new folder with the name **Migration**, inside it there are the  necesary files for build tables on MariaDB database
 
